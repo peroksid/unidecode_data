@@ -1,0 +1,15 @@
+{application, 'unidecode_data',
+ [{description, "one-off rebar3 plugin preparing data modules for unidecode"},
+  {vsn, "0.1.0"},
+  {registered, []},
+  {applications,
+   [kernel,
+    stdlib
+   ]},
+  {env,[]},
+  {modules, []},
+
+  {contributors, []},
+  {licenses, []},
+  {links, []}
+ ]}.
