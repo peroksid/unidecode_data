@@ -1,7 +1,7 @@
 unidecode_data
 =====
 
-one-off rebar3 plugin preparing data modules for unidecode
+one-off rebar3 plugin preparing data modules for unidecode.
 
 Build
 -----
@@ -24,3 +24,5 @@ Then just call your plugin directly in an existing application:
     ===> Fetching unidecode_data
     ===> Compiling unidecode_data
     <Plugin Output>
+
+Plugin creates of modules in ./src/
